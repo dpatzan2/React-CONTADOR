@@ -1,0 +1,13 @@
+.contador{
+    height: auto;
+    width: auto;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contador button{
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+}

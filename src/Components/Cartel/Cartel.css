@@ -1,0 +1,11 @@
+.cartel{
+    height: auto;
+    width: 200px;
+    background-color: beige;
+    margin-bottom: 20px;
+}
+
+.cartel span{
+    font-size: 30px;
+    font-weight: bold;
+}
